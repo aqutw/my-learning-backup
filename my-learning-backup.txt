@@ -1,16 +1,15 @@
-#css flex
+#CSS flex
 http://flexboxfroggy.com
 
-#rxjs javascript
+#RxJS Javascript
 http://www.slideshare.net/ssuserb9c983/you-will-learn-rxjs-in-2017
 
-#rwd
+#RWD
 http://www.slideshare.net/ssuser7fd2ef/grid-71297956
 
-#pwa html mobile
+#PWA HTML Mobile
 http://www.slideshare.net/newstory0113/pwa-html5
 
-#animate css3
+#Animate CSS3
 http://www.slideshare.net/ssuser7fd2ef/css-animation-demo
-
 
